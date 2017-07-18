@@ -1,2 +1,3 @@
-# hello-world
-This is my first repo
+# The first Repo
+
+Everyone needs a start so I started here.
